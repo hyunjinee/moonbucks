@@ -25,7 +25,7 @@
 </p>
 
 <p align="middle">
-  <a href="https://blackcoffee-study.github.io/moonbucks-menu/">🖥️ 데모 링크</a>
+  <a href="https://62519822dc23b1351e7cc73f--moonbucks.netlify.app/">🖥️ 데모 링크</a>
 </p>
 
 <br/>
