@@ -21,7 +21,7 @@
 ## 🔥 Projects!
 
 <p align="middle">
-  <img width="400" src="./src/images/moonbucks-main.png">
+  <img width="400" src="https://user-images.githubusercontent.com/63354527/162578676-e8c6f2d8-64dd-48de-a555-4b2ad8aec790.png">
 </p>
 
 <p align="middle">
