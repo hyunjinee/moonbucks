@@ -67,6 +67,8 @@ class App {
       .join("");
 
     ($("#menu-list") as HTMLUListElement).innerHTML = template;
+
+    this.updateMenuCount();
   }
 
   initEventListeners() {
@@ -149,6 +151,11 @@ class App {
     this.menu[this.currentCategory][menuId].name = updatedMenuName;
     setLocalStorage("menu", this.menu);
     this.render();
+  }
+
+  updateMenuCount() {
+    const menuCount = this.menu[this.currentCategory].length;
+    $(".menu-count").innerText = `${menuCount}개`;
   }
 
   removeMenuName(e: MouseEvent) {
